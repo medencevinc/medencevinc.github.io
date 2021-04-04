@@ -1,0 +1,56 @@
+body{
+background-image: url(img/back.png);
+background-size:cover;
+
+
+}
+
+h1, h2{
+color:crimson;
+text-align:center;
+
+}
+h1{
+
+	font-size:50px;
+}
+
+
+.header{
+background-color: none;
+width:100%;
+height:150px;
+color:#c77c3a;
+
+font-size:30px;}
+
+.header img {
+float:left;
+height:150px;
+width:150px;
+
+}
+.content{
+
+height:105%;
+width:100%;
+margin:0;
+color:white;
+font-size:25px;
+float: right;
+}
+
+.box{
+color:white;
+border:10px outside black;
+padding:15px;
+margin:15px;
+
+
+
+} 
+
+.box img{float:left;}
+
+
+p{color:white;}
